@@ -1,0 +1,1 @@
+export const wizardHousesLink = "https://wizard-world-api.herokuapp.com/houses";
